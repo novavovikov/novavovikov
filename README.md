@@ -1,6 +1,6 @@
 ## 📫 How to reach me:
 
-+ Personal site: https://novavovikov.ru/
++ Personal site: https://novavovikov.ru
 + Telegram: https://t.me/novavovikov
 + Twitter: https://twitter.com/novavovikov
 
