@@ -1,4 +1,8 @@
-### Hi there 👋
+## Get in touch
+
++ Personal site: https://novavovikov.ru/
++ Telegram: https://t.me/novavovikov
++ Twitter: https://twitter.com/novavovikov
 
 <!--
 **novavovikov/novavovikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
