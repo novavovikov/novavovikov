@@ -1,4 +1,4 @@
-## Get in touch
+## 📫 How to reach me:
 
 + Personal site: https://novavovikov.ru/
 + Telegram: https://t.me/novavovikov
